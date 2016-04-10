@@ -1,0 +1,19 @@
+     A          R RECORD1
+     A                                  2 68DATE
+     A                                      EDTWRD('  /  /  ')
+     A                                  2 28'Payroll Program Completed'
+     A                                  2  4'Anh Khoi Do'
+     A                                  5 15'Rates:'
+     A                                 10 14'Totals:'
+     A                                  6 26'Day Rates:'
+     A                                  7 26'Afternoon Rates:'
+     A                                  8 26'Night Rates:'
+     A                                 13 26'Company Payout'
+     A                                 11 26'Regular Pay'
+     A                                 12 26'Overtime Pay:'
+     A            TOTREGPAY      9  2O 11 45EDTWRD(' ,   ,   . 0')
+     A            TOTEMPPAY      9  2O 13 44EDTWRD(' ,   ,   . $0')
+     A            TOTOVTPAY      9  2O 12 45EDTWRD(' ,   ,   . 0')
+     A            DAYRATE        5  2O  6 44EDTWRD('0  .  ')
+     A            AFTNRATE       5  2O  7 44EDTWRD('0  .  ')
+     A            NIGHTRATE      5  2O  8 44EDTWRD('0  .  ') 
